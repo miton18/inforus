@@ -11,8 +11,8 @@ import (
 
 // Skip the following 3 frames.
 // runtime.Callers
-// github.com/178inaba/inforus.Hook.Fire
-// github.com/178inaba/inforus.(*Hook).Fire
+// github.com/miton18/inforus.Hook.Fire
+// github.com/miton18/inforus.(*Hook).Fire
 const skipFrameCnt = 3
 
 // AddHookDefault is ...
